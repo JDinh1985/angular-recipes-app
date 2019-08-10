@@ -51,5 +51,7 @@ export class AuthComponent implements OnInit {
     form.reset();
   }
 
-  login(email: string, password: string) {}
+  onHandleClose() {
+    this.error = null;
+  }
 }
