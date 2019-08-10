@@ -1,3 +1,6 @@
+#NOTE
+This branch has covers core features of angular only.
+
 # MyFirstApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
