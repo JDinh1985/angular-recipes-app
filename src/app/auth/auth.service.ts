@@ -5,7 +5,7 @@ import { throwError, Observable, Subject, BehaviorSubject } from 'rxjs';
 import { User } from './user.model';
 import { Router } from '@angular/router';
 
-const API_KEY = 'AIzaSyAJbTg_up0Lj2FMq-hq2X9EeFa-pSFA7CU';
+const API_KEY = 'YOUR API KEY';
 
 export interface AuthResponseData {
   kind: string;
